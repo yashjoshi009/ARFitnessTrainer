@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/IntroPage.unity
+    guid: f43a1c6866207254d9ed62e921d880bf
+  - enabled: 1
+    path: Assets/Scenes/Home page scene/MenuTry.unity
+    guid: 9926bade6fcf6e141894f83745139eb8
+  - enabled: 1
+    path: Assets/Scenes/Home page scene/Fitness.unity
+    guid: c8c6012c771543041a72168fc0850b3a
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/FreeStyle/CameraSquats.unity
+    guid: 62fc7ee0685eba54ab5f66ff6f25dd06
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/Strength/CameraPushup.unity
+    guid: 697f0e8dbd665af45bc42b45c12f62ee
+  - enabled: 1
+    path: Assets/Scenes/Home page scene/MMA.unity
+    guid: cd9594f1201575849998e1ea1fd3361d
+  - enabled: 1
+    path: Assets/Scenes/Home page scene/AboutUs.unity
+    guid: f634c5c23a286f64c8d141c48d10fce1
+  - enabled: 1
+    path: Assets/Scenes/Fitness_Scene/Strength.unity
+    guid: 4c23a84169364594b81c42c541c3c304
+  - enabled: 1
+    path: Assets/Scenes/Fitness_Scene/Power.unity
+    guid: 4f67ba98647f30f4aa419f9aa80f9965
+  - enabled: 1
+    path: Assets/Scenes/Fitness_Scene/Free.unity
+    guid: b904e33da52a99e46afb1febee3d0ba0
+  - enabled: 1
+    path: Assets/Scenes/Fitness_Scene/Core.unity
+    guid: aa1796ee5ce52e34287532985982901d
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/Core/Situps.unity
+    guid: bec7e347680400042aa63dae76cd041e
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/Core/Plank.unity
+    guid: 964aef1e5e817744cadec123e0ea7ebd
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/Core/Crunches.unity
+    guid: 8f33b20ea0c74f94c979a42d1545d54a
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/FreeStyle/BoxJump.unity
+    guid: 3f4c3b600bbc6c941b56f7913d3ec8fe
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/FreeStyle/Burpee.unity
+    guid: b422f23d009688849a4fe158f3b0dd20
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/FreeStyle/JumpingJacks.unity
+    guid: fe99b9af6802553499c820c037127da1
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/FreeStyle/KettleBell.unity
+    guid: daaf203cabf946a4c8949bf9af6cc937
+  - enabled: 0
+    path: Assets/Scenes/CameraScene/FreeStyle/PikeWalk.unity
+    guid: 2fef032563f2c41438978fe641a41866
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/Strength/BackSquats.unity
+    guid: eaf8a1ceb04869945b590b1adf5feab7
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/Strength/BicepCurl.unity
+    guid: 42693836b9eb35b4e95e14a3176b71c2
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/Strength/FrontRise.unity
+    guid: 263e2f0e7ee28e9498a0fa8a016b1e54
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/Strength/JumpPushup.unity
+    guid: b46fb4128b8b00c49b2462ad92af5ef5
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/Strength/PistolSquats.unity
+    guid: a9cd7533e171061418368bfb86a767d1
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/WeightLifting/CleanJerk.unity
+    guid: 394b89582e0b46c448bdfb9f1276b0ee
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/WeightLifting/Snatch.unity
+    guid: e2ef6057b05897749b0f994bd8a58336
+  - enabled: 1
+    path: Assets/Scenes/MMA_Scene/Punch.unity
+    guid: 505ab94ff51a7104d8d1f12480037304
+  - enabled: 1
+    path: Assets/Scenes/MMA_Scene/Combo.unity
+    guid: 2b53c148a610f2a469aabd2f77442f1d
+  - enabled: 1
+    path: Assets/Scenes/MMA_Scene/Kicks.unity
+    guid: eca6b6e76fcebec4980830384ae99806
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/Punch/Elbow.unity
+    guid: eefb8eb189a244248b7df430cb2f4df8
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/Punch/Hook.unity
+    guid: faa2ca9de58bdc84eb90303913ea974e
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/Punch/Cross.unity
+    guid: 7c746127d24fb944a8f90dd5d2d90f4c
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/Punch/Quad.unity
+    guid: eb8699c46ca1af54eb9b475e4ab7721f
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/Punch/Upper.unity
+    guid: 40a3e7a63fef0f648a477079bd3e1d1a
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/Punch/Jab.unity
+    guid: e4874f7159ff9634f81c5f539a90f4bf
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/Kick/FrontKick.unity
+    guid: 5fe896fcbeadc144782e2a89ee320200
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/Kick/IllegalKick.unity
+    guid: 428f33c706ef05e4494bedaab860a783
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/Kick/RoundhouseKick.unity
+    guid: 2d949ceef3794a448b951385284e1223
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/Kick/Sidekick.unity
+    guid: 07c13878fa6df2a458e885db3a11171f
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/Kick/SpinningbackKick.unity
+    guid: a9956194edb1ac1469f52f32e12956f4
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/Combo/BackflipKick.unity
+    guid: 3bfd23f321989334b9dc5da3ec1da156
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/Combo/FlyingkneeKick.unity
+    guid: e3ec59c514a4c7a4490d8f129bf2a5fb
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/Combo/ElbowandUpper.unity
+    guid: cc28dc83bbd5a8642ae83bf20aaf6d32
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/Combo/PunchandElbow.unity
+    guid: 8466925562b9d22428cdbd983952b0cb
+  - enabled: 1
+    path: Assets/Scenes/CameraScene/Combo/KneeJab.unity
+    guid: 54e0f1d20bff6f240a64efe66652d2e2
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 540ce6e6daa44774c9fd96cbaa778ea0, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: e57e19b0dd1148344814d9f225aa526f, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 17ad044c8c0fdf645b27735aa54f4273, type: 2}
